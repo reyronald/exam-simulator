@@ -15,7 +15,7 @@
     "antd": "^3.7.1",
     "emotion": "^9.2.6",
     "react": "^16.4.1",
-    "react-dom": "^16.4.1",
+    "react-dom": "^16.4.2",
     "react-emotion": "^9.2.6",
     "react-scripts-ts": "2.16.0"
   },
